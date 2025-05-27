@@ -43,9 +43,8 @@ const startMessage = `
 ✨ Envoie un message dans un groupe ou un canal où je suis administrateur, et je réagirai avec un emoji aléatoire.
 @Reactionxaabot
 @breactionxa_bot
-@reactionxb_bot:
- @reactionxa_bot:
- @Bhosjzuzjzzueubot
+@reactionxb_bot
+@reactionxa_bot @Bhosjzuzjzzueubot
 👉 Utilise les boutons ci-dessous pour m'ajouter à ton groupe ou canal !
 `;
 
